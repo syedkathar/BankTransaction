@@ -34,7 +34,7 @@ a list of transaction records.
 To build the application:
 
 ```bash
-./mvn clean build
+./mvn clean install
 ```
 
 To run the application:
